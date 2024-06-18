@@ -2,7 +2,7 @@
 
 ## Take-home task
 
-This task involves the automation of a deployment pipeline for two serverless functions. It is intended to take 1 hour to prepare. If you find yourself spending longer than one hour, please note down what you would do if you had more time and we will discuss it in the next interview — do not worry about finishing. We are looking for an indication of your thought processes outside of an interview context, not a comprehensive or in-depth solution. 
+This task involves the automation of a deployment pipeline for two serverless functions. It is intended to take at least 1 hour to prepare. If you find yourself spending longer than one hour, please note down what you would do if you had more time and we will discuss it in the next interview — do not worry about finishing. We are looking for an indication of your thought processes outside of an interview context, not a comprehensive or in-depth solution. 
 
 When you have completed your solution, please upload your code to a public GitHub repository and email the link to [cls@powerx.ai](mailto:cls@powerx.ai). Feel free to ask any questions or clarifications at any time.
 
